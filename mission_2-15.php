@@ -1,11 +1,11 @@
 <?php
 
 //DBにMysql、データベース名・testを指定。
-$dsn = 'mysql:dbname=co_673_it_99sv_coco_com;host=localhost';
+$dsn = '';
 
 //DBに接続するためのユーザー名・パスワードを設定
-$user = 'co-673.it.99sv-c';
-$password = 'mNbi8V';
+$user = '';
+$password = '';
  
 try{
 //データーベースに接続
@@ -106,11 +106,11 @@ catch (PDOException $e){
 <?php
 
 //DBにMysql、データベース名・testを指定。
-$dsn = 'mysql:dbname=co_673_it_99sv_coco_com;host=localhost';
+$dsn = '';
 
 //DBに接続するためのユーザー名・パスワードを設定
-$user = 'co-673.it.99sv-c';
-$password = 'mNbi8V';
+$user = '';
+$password = '';
  
 try{
 //データーベースに接続
